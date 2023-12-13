@@ -13,8 +13,4 @@
 - **Languages I use:** C#, Swift
 - **Tools I'm trying:** HTMX, SQL, SwiftUI 
 
-## Let's Connect!
-- LinkedIn: [linkedin.com/in/paul-locksley/](https://www.linkedin.com/in/paul-locksley/)
-- Website/Blog: [locksley.dev](https://locksley.dev)
-
 Feel free to drop me a message if you want to chat
